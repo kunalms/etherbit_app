@@ -1,0 +1,18 @@
+.postive{
+	color: green;
+}
+.negative{
+	color: red;
+}
+.nochange{
+	color: black;
+}
+
+tr.postive{
+	color: green;
+}
+
+tr.negative{
+	color: red;
+}
+
